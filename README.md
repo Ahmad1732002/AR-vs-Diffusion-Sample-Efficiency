@@ -148,4 +148,4 @@ This generates `train.bin` and `eval.bin` files required for both model training
 ## Acknowledgments
 
 - Discrete diffusion implementation inspired by [nanoDD](https://github.com/flukeskywalker/nanoDD)
-- Autoregressive implementation inspired by [nanoGPT](https://github.com/karpathy/nanoGPT)repository contains implementations and experiments comparing sample efficiency of discrete diffusion models and autoregressive models on text generation tasks, specifically using the Shakespeare dataset.
+- Autoregressive implementation inspired by [nanoGPT] (https://github.com/karpathy/nanoGPT)repository contains implementations and experiments comparing sample efficiency of discrete diffusion models and autoregressive models on text generation tasks, specifically using the Shakespeare dataset.
