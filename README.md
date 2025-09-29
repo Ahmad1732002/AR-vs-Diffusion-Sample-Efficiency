@@ -1,4 +1,5 @@
 # Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models
+![Inference of masked discrete diffusion model on Shakespeare data](discrete_diffusion/demo_dd.gif)
 
 ## Abstract
 
