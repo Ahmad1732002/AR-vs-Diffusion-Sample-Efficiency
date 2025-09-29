@@ -1,6 +1,8 @@
 # Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models
 
-This repository contains implementations and experiments comparing discrete diffusion models with autoregressive models on text generation tasks, specifically using the Shakespeare dataset.
+## Abstract
+
+Data scarcity drives the need for more sample-efficient large language models. In this work, we use the double descent phenomenon to holistically compare the sample efficiency of discrete diffusion and autoregressive models. We show that discrete diffusion models require larger capacity and more training epochs to escape their underparameterized regime and reach the interpolation threshold. In the strongly overparameterized regime, both models exhibit similar behavior, with neither exhibiting a pronounced second descent in test loss across a large range of model sizes. \edit{Overall, our results indicate that autoregressive models are more sample-efficient on small-scale datasets, while discrete diffusion models only become competitive when given sufficient capacity and compute.
 
 ## Repository Structure
 
