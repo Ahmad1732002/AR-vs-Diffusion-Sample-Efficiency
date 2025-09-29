@@ -1,4 +1,4 @@
-#Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models
+# Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models
 
 This repository contains implementations and experiments comparing discrete diffusion models with autoregressive models on text generation tasks, specifically using the Shakespeare dataset.
 
