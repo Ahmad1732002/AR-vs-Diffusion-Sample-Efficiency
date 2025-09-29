@@ -127,7 +127,7 @@ This generates `train.bin` and `eval.bin` files required for both model training
    **Discrete Diffusion:**
    ```bash
    cd discrete_diffusion_model/
-   python sample_d3pm.py --ckpt_path=ckpt.pt --dataset=shakespeare
+   python sample.py --ckpt_path=ckpt.pt --dataset=shakespeare
    ```
    
    **Autoregressive:**
